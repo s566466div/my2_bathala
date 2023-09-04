@@ -10,3 +10,4 @@
  3. chess
 
  ---
+![MyStatus]("C:\Users\S566466\Documents\GitHub\my2_bathala\MyStats.md")
