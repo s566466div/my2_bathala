@@ -5,8 +5,8 @@
  ---
  ## activities
 
- *uno
- *ludo
- *chess
+ 1. uno
+ 2. ludo
+ 3. chess
 
  ---
