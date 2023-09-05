@@ -16,3 +16,13 @@ SPORTS
 |  Yoga        | Yoga is a holistic practice that combines physical postures, breathing techniques, and mindfulness. It promotes flexibility, reduces stress, and enhances mental clarity and well-being. |  
 
 ---
+
+---
+
+* Albert Einstein
+>Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.
+
+* Carl Sagan
+>The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.
+
+---
