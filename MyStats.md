@@ -6,6 +6,8 @@ Playing video games, board games, or card games is a enjoyable way to relax and 
 [![myphoto](divya.jpeg)](MyStats.md)
 
 ![myphoto](divya.jpeg)
+![MyStats](https://github.com/s566466div/my2_bathala/blob/main/divya.jpeg)
+
 
 ---
 SPORTS
