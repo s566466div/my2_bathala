@@ -3,11 +3,7 @@
 Playing video games, board games, or card games is a enjoyable way to relax and stimulate your mind
 
 
-[![myphoto](divya.jpeg)](MyStats.md)
-
 ![myphoto](divya.jpeg)
-![MyStats](https://github.com/s566466div/my2_bathala/blob/main/divya.jpeg)
-
 
 ---
 SPORTS
