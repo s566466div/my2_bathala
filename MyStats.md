@@ -26,3 +26,29 @@ SPORTS
 >The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.
 
 ---
+
+---
+### Section Title
+
+> **Stack Overflow Question:**
+> 
+> I'm trying to center a div element horizontally and vertically using CSS. Can someone help me with the CSS code for this?
+> 
+> [Link to Stack Overflow Question](https://stackoverflow.com/questions/12345678/center-div-horizontally-and-vertically-in-css)
+
+
+```css
+/* CSS Snippet from css-tricks */
+.center-div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+5. Include a quick-link for the snippet source:
+
+```markdown
+[Source: CSS-Tricks](https://css-tricks.com/centering-css-complete-guide/)
