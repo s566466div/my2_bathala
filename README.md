@@ -10,4 +10,4 @@
  3. chess
 
  ---
- ![mystat file open]("MyStats.md")
+ ![mystat file open](MyStats.md)
