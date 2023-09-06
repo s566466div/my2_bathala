@@ -3,11 +3,11 @@
  Coorg (also known as Kodagu) is a beautiful hill station in the southern part of India. It's known for its lush green landscapes, coffee plantations, misty hills, and serene atmosphere. Coorg offers a relaxing and refreshing vacation experience, with opportunities for nature walks, **trekking, exploring waterfalls, and enjoying the local culture**. It's a popular destination for those seeking a peaceful getaway in the lap of nature.
  
  ---
- ## activities
+ ## Dishes to try in Coorg
 
- 1. uno
- 2. ludo
- 3. chess
+ 1. Cakes
+ 2. Biryani
+ 3. meat dishes
 
  ---
  ![mystat file open](MyStats.md)
