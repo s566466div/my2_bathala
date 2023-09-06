@@ -51,20 +51,5 @@ SPORTS
   box-shadow: 0 8px 6px -6px black;
 }
 
-.shadow1 {
-  margin: 40px;
-  background-color: rgb(68,68,68); /* Needed for IE */
-  box-shadow: 5px 5px 5px rgb(68 68 68 / 0.6);
-  filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30);
-  -ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30)";
-  zoom: 1;
-}
-.shadow1 .content {
-  position: relative; /* This protects the inner element from being blurred */
-  padding: 100px;
-  background-color: #ddd;
-}
 ```
->link for above code
-
->[CSS Box Shadow](https://css-tricks.com/snippets/css/css-box-shadow/#aa-one-side-only)
+>link for above code [CSS Box Shadow](https://css-tricks.com/snippets/css/css-box-shadow/#aa-one-side-only)
