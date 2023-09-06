@@ -32,7 +32,7 @@ SPORTS
 
 > **Stack Overflow Question:**
 > 
-> 
+> I'm trying to center a div element horizontally and vertically using CSS. Can someone help me with the CSS code for this?
 > 
 > [Link to Stack Overflow Question](https://stackoverflow.com/questions/5407386/multiple-box-shadow-declarations-in-sass)
 
@@ -65,4 +65,6 @@ SPORTS
   background-color: #ddd;
 }
 ```
-[CSS Box Shadow](https://css-tricks.com/snippets/css/css-box-shadow/#aa-one-side-only)
+>link for above code
+
+>[CSS Box Shadow](https://css-tricks.com/snippets/css/css-box-shadow/#aa-one-side-only)
