@@ -32,30 +32,36 @@ SPORTS
 
 > **Stack Overflow Question:**
 > 
-> I'm trying to center a div element horizontally and vertically using CSS. Can someone help me with the CSS code for this?
 > 
-> [Link to Stack Overflow Question](https://stackoverflow.com/questions/12345678/center-div-horizontally-and-vertically-in-css)
+> 
+> [Link to Stack Overflow Question](https://stackoverflow.com/questions/5407386/multiple-box-shadow-declarations-in-sass)
 
 
-// Scroll to specific values
-// scrollTo is the same
-window.scroll({
-  top: 2500, 
-  left: 0, 
-  behavior: 'smooth'
-});
 
-// Scroll certain amounts from current position 
-window.scrollBy({ 
-  top: 100, // could be negative value
-  left: 0, 
-  behavior: 'smooth' 
-});
 
-// Scroll to a certain element
-document.querySelector('.hello').scrollIntoView({ 
-  behavior: 'smooth' 
-});
+.shadow {
+  box-shadow: 3px 3px 5px 6px #ccc;
+}
+
 .shadow {
   box-shadow: inset 0 0 10px #f8a100;
 }
+
+.one-edge-shadow {
+  box-shadow: 0 8px 6px -6px black;
+}
+
+.shadow1 {
+  margin: 40px;
+  background-color: rgb(68,68,68); /* Needed for IE */
+  box-shadow: 5px 5px 5px rgb(68 68 68 / 0.6);
+  filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30)";
+  zoom: 1;
+}
+.shadow1 .content {
+  position: relative; /* This protects the inner element from being blurred */
+  padding: 100px;
+  background-color: #ddd;
+}
+[CSS Box Shadow](https://css-tricks.com/snippets/css/css-box-shadow/#aa-one-side-only)
