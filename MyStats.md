@@ -8,7 +8,7 @@ Playing video games, board games, or card games is a enjoyable way to relax and 
 ---
 SPORTS
 
-| sports       | Description  |
+| sports       |Sports are competitive physical activities that involve structured rules and often require skill, strength, or teamwork. They encompass a wide range of activities, from team sports like soccer and basketball to individual pursuits like swimming and track and field. Sports are not only a form of recreation but also a platform for physical fitness, entertainment, and competition |
 |:------------:|:------------:|
 | Tennis       | Tennis is a fast-paced racket sport that combines strategy, agility, and endurance. It's a fantastic way to improve hand-eye coordination and stay fit while enjoying friendly matches.|
 | Swimming     | Swimming is a low-impact, full-body workout that's perfect for all fitness levels. It enhances cardiovascular health, builds muscle strength, and provides relaxation in the water. |
