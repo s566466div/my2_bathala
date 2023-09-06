@@ -37,18 +37,22 @@ SPORTS
 > [Link to Stack Overflow Question](https://stackoverflow.com/questions/12345678/center-div-horizontally-and-vertically-in-css)
 
 
-```css
-/* CSS Snippet from css-tricks */
-.center-div {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+// Scroll to specific values
+// scrollTo is the same
+window.scroll({
+  top: 2500, 
+  left: 0, 
+  behavior: 'smooth'
+});
 
+// Scroll certain amounts from current position 
+window.scrollBy({ 
+  top: 100, // could be negative value
+  left: 0, 
+  behavior: 'smooth' 
+});
 
-
-5. Include a quick-link for the snippet source:
-
-```markdown
-[Source: CSS-Tricks](https://css-tricks.com/centering-css-complete-guide/)
+// Scroll to a certain element
+document.querySelector('.hello').scrollIntoView({ 
+  behavior: 'smooth' 
+});
