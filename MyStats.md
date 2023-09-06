@@ -56,3 +56,6 @@ window.scrollBy({
 document.querySelector('.hello').scrollIntoView({ 
   behavior: 'smooth' 
 });
+.shadow {
+  box-shadow: inset 0 0 10px #f8a100;
+}
