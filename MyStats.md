@@ -50,7 +50,7 @@ SPORTS
 .one-edge-shadow {
   box-shadow: 0 8px 6px -6px black;
 }
-
+```
 .shadow1 {
   margin: 40px;
   background-color: rgb(68,68,68); /* Needed for IE */
@@ -64,4 +64,5 @@ SPORTS
   padding: 100px;
   background-color: #ddd;
 }
+```
 [CSS Box Shadow](https://css-tricks.com/snippets/css/css-box-shadow/#aa-one-side-only)
