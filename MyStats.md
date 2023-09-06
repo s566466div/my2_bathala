@@ -37,7 +37,7 @@ SPORTS
 > [Link to Stack Overflow Question](https://stackoverflow.com/questions/5407386/multiple-box-shadow-declarations-in-sass)
 
 
-
+```
 
 .shadow {
   box-shadow: 3px 3px 5px 6px #ccc;
@@ -50,7 +50,7 @@ SPORTS
 .one-edge-shadow {
   box-shadow: 0 8px 6px -6px black;
 }
-```
+
 .shadow1 {
   margin: 40px;
   background-color: rgb(68,68,68); /* Needed for IE */
